@@ -1,0 +1,8 @@
+name: FightClub
+version: 1.0
+author: Jielos
+main: fr.jielos.fightclub.Main
+
+commands:
+  forcestart:
+    permission: "sunigames.games.forcestart"
