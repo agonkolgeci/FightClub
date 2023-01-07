@@ -5,7 +5,7 @@ Pour plus de détails, référez-vous au [texte de licence](LICENSE).
 ---
 - Nom: FightClub
 - Type: Mini-jeu
-- État: Progression continuelle
+- État: Archive
 - Développeur(s): Jielos
 
 ## Description
