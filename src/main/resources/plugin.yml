@@ -6,3 +6,4 @@ main: fr.jielos.fightclub.Main
 commands:
   forcestart:
     permission: "fightclub.commands.forcestart"
+    description: "Forcing the game to start."
