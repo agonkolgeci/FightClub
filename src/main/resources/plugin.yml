@@ -5,4 +5,5 @@ main: fr.jielos.fightclub.Main
 
 commands:
   forcestart:
-    permission: "sunigames.games.forcestart"
+    permission: "fightclub.commands.forcestart"
+    description: "Forcing the game to start."
